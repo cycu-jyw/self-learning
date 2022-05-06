@@ -9,7 +9,7 @@ const config = {
   title: '自主學習',
   tagline: '王老師學習園地',
   url: 'https://www.jywglady.org/SelfLearning',
-  baseUrl: '/SelfLearning/',
+  baseUrl: '/', //'/SelfLearning/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
