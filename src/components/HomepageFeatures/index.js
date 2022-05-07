@@ -6,7 +6,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Git',
-    link: '/docs/git/intro',
+    link: '/docs/intro',
     Svg: require('@site/static/img/git.svg').default,
     description: (
       <>
@@ -17,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'GitHub',
-    link: '/docs/git/intro',
+    link: '/docs/intro',
     Svg: require('@site/static/img/github.svg').default,
     description: (
       <>
@@ -29,7 +29,7 @@ const FeatureList = [
   },
   {
     title: 'Markdown',
-    link: '/docs/git/intro',
+    link: '/docs/intro',
     Svg: require('@site/static/img/markdown.svg').default,
     description: (
       <>

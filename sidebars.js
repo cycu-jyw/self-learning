@@ -19,7 +19,14 @@ const sidebars = {
   // But you can create a sidebar manually
   tutorialSidebar: [
     {
-      '學習課程': ['git/intro', 'git/create'],
+      '學習課程': [
+        'intro', 
+        'create', 
+        'addfile',
+        'pages',
+        'howto',
+        'credits',
+      ],
     },
     {
       type: 'category',
@@ -27,10 +34,25 @@ const sidebars = {
       items: [
         {
           type: 'link',
+          label: 'Markdown 文件',
+          href: 'https://markdown.tw/',
+        },
+        {
+          type: 'link',
+          label: 'Writing on GitHub',
+          href: 'https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github',
+        },
+        {
+          type: 'link',
           label: 'Webcamp',
           href: 'https://www.jywglady.org/webcamp',
         },
-      ],
+        {
+          type: 'link',
+          label: 'HTML Tutorial',
+          href: 'https://www.w3schools.com/html/',
+        },
+      ]
     },
   ],
 };

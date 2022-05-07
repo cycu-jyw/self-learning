@@ -26,7 +26,7 @@
      units="px"
      width="200px"
      inkscape:zoom="2.7473906"
-     inkscape:cx="216.02316"
+     inkscape:cx="128.66754"
      inkscape:cy="123.20782"
      inkscape:window-width="1852"
      inkscape:window-height="1016"
@@ -40,34 +40,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g16575"
-       transform="matrix(1.0666533,0,0,1.5672691,-2.4974981,-12.092873)"
-       style="stroke-width:0.773421">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:18.5863px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.204634"
-         x="1.8456782"
-         y="30.420511"
-         id="text2234"
-         transform="scale(1.0343881,0.96675512)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#0000ff;stroke-width:0.204634"
-           x="1.8456782"
-           y="30.420511"
-           id="tspan2236">Self</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:19.0897px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.204633"
-         x="30.648226"
-         y="30.414133"
-         id="text22944"
-         transform="scale(1.0362184,0.96504754)"><tspan
-           sodipodi:role="line"
-           id="tspan22942"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#ff0000;stroke-width:0.204633"
-           x="30.648226"
-           y="30.414133">Learn</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.0312px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-0.54034519"
+       y="29.012991"
+       id="text2234"
+       transform="scale(0.85334251,1.1718624)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#008000;stroke-width:0.264583"
+         x="-0.54034519"
+         y="29.012991"
+         id="tspan2236">Self</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.6821px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="36.705223"
+       y="28.986486"
+       id="text22944"
+       transform="scale(0.85485244,1.1697925)"><tspan
+         sodipodi:role="line"
+         id="tspan22942"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#ff0000;stroke-width:0.264581"
+         x="36.705223"
+         y="28.986486">Learn</tspan></text>
   </g>
 </svg>

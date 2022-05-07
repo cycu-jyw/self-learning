@@ -70,12 +70,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'git/intro',
-            position: 'left',
-            label: 'Git',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Git',
+          // },
           // {
           //   type: 'doc',
           //   docId: 'github',

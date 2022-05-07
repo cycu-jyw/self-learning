@@ -299,24 +299,24 @@
        id="path1195" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="41.571232"
        y="221.07538"
        id="text2885"><tspan
          sodipodi:role="line"
          id="tspan2883"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#008000"
          x="41.571232"
          y="221.07538">main</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.195635"
        y="197.4854"
        id="text4487"><tspan
          sodipodi:role="line"
          id="tspan4485"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#008000"
          x="16.195635"
          y="197.4854">R3.0</tspan></text>
     <circle
@@ -331,13 +331,13 @@
        id="path5022" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="87.785782"
        y="169.5139"
        id="text5184"><tspan
          sodipodi:role="line"
          id="tspan5182"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#008000"
          x="87.785782"
          y="169.5139">T1</tspan></text>
     <circle
@@ -353,13 +353,13 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="59.429523"
        y="162.58612"
        id="text5545"><tspan
          sodipodi:role="line"
          id="tspan5543"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#008000"
          x="59.429523"
          y="162.58612">Fix1</tspan></text>
     <path
@@ -405,13 +405,13 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.195635"
        y="110.81475"
        id="text1576"><tspan
          sodipodi:role="line"
          id="tspan1574"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#008000"
          x="16.195635"
          y="110.81475">R3.1</tspan></text>
     <circle
@@ -437,13 +437,13 @@
        r="4.4523206" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="13.549804"
        y="72.497498"
        id="text9413"><tspan
          sodipodi:role="line"
          id="tspan9411"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#008000"
          x="13.549804"
          y="72.497498">R3.1.1</tspan></text>
   </g>
