@@ -1,51 +1,57 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
     title: 'Git',
+    link: '/docs/git/intro',
     Svg: require('@site/static/img/git.svg').default,
     description: (
       <>
-        A free and open source distributed version control system 
-        designed to handle everything from small to very large projects 
-        with speed and efficiency.
+        Git 是自由開放的分散式版本控管軟體，最初設計用來管理從小規模到很大規模的專案，
+        具有很快的速度和很高的效率。
       </>
     ),
   },
   {
     title: 'GitHub',
+    link: '#', ///docs/github',
     Svg: require('@site/static/img/github.svg').default,
     description: (
       <>
-        Where the world builds software
-        Millions of developers and companies build, ship,
-        and maintain their software on GitHub.
+        數以百萬計的軟體開發者和公司，維護、分享和管理軟體的地方，可能也是世界上
+        使用 Git 分享軟體專案最大的平台。
+
       </>
     ),
   },
   {
     title: 'Markdown',
+    link: '#', ///docs/markdown',
     Svg: require('@site/static/img/markdown.svg').default,
     description: (
       <>
-        A lightweight markup language that you can use to add formatting
-        elements to plaintext text documents. 
-        Markdown is now one of the world’s most popular markup languages.
+        Markdown 是輕量級的網頁文本標記語言，讓您輕鬆撰寫網頁文稿，
+        也是世界上最流行的標記語言之一。
       </>
     ),
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ Svg, title, link, description }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+      <Link href={link}><a>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+      </a></Link>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <Link href={link}><a>
+          <h3>{title}</h3>
+        </a></Link>
         <p>{description}</p>
       </div>
     </div>
