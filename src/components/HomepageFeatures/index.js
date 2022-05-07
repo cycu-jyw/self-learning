@@ -17,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'GitHub',
-    link: '#', ///docs/github',
+    link: '/docs/git/intro',
     Svg: require('@site/static/img/github.svg').default,
     description: (
       <>
@@ -29,7 +29,7 @@ const FeatureList = [
   },
   {
     title: 'Markdown',
-    link: '#', ///docs/markdown',
+    link: '/docs/git/intro',
     Svg: require('@site/static/img/markdown.svg').default,
     description: (
       <>

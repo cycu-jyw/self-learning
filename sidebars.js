@@ -19,7 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
   tutorialSidebar: [
     {
-      'Git': ['git/intro', 'git/howto'],
+      '學習課程': ['git/intro', 'git/create'],
     },
     {
       type: 'category',
