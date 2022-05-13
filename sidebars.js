@@ -25,7 +25,6 @@ const sidebars = {
         'addfile',
         'pages',
         'local',
-        'clone',
         'vsc',
         'howto',
         'credits',

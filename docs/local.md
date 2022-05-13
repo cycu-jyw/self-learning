@@ -2,7 +2,7 @@
 title: 建立 Local 環境
 ---
 
-[教學錄影](#)
+[教學錄影](https://youtu.be/YavSmnOhYvg)
 
 本單元學習在自己的電腦設定開發環境，此處以 Windows 系統為例，學習重點如下：
 1. 安裝 Git， 可從這裡下載 [Git](https://git-scm.com/)。
